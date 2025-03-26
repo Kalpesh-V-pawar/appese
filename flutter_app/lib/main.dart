@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
   bool _isLoading = false;
 
   // Replace with your actual Vercel deployment URL
-  final String baseUrl = 'https://your-vercel-deployment.vercel.app';
+  final String baseUrl = 'https://appese-37xyi7ijd-kalpesh-vinod-pawars-projects.vercel.app';
 
   @override
   void initState() {
